@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-  name = 'saoa_pytorch',
+  name = 'aoa_pytorch',
   packages = find_packages(exclude=['examples']),
   version = '0.0.1',
   license='MIT',
-  description = 'Self Attention on Attention - Pytorch',
+  description = 'Attention on Attention - Pytorch',
   author = 'Phil Wang',
   author_email = 'lucidrains@gmail.com',
   url = 'https://github.com/lucidrains/SAoA-pytorch',
