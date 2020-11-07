@@ -1,6 +1,6 @@
 <img src="./saoa.png"></img>
 
-## Self Attention on Attention - Pytorch
+## Self Attention on Attention - Pytorch (wip)
 
 A Pytorch implementation of Self Attention on Attention module, from the paper <a href="https://arxiv.org/abs/2011.02164v1">An Improved Attention for Visual Question Answering</a>. This module was used to achieve new SOTA on visual question / answering. It will also include the Guided Attention on Attention (GAoA) module, the cross-attention variant.
 
